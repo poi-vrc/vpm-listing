@@ -15,7 +15,8 @@
     "bannerUrl":"banner.png",
     "githubRepos":[
         "poi-vrc/AvatarLib",
-        "poi-vrc/DressingTools"
+        "poi-vrc/DressingTools",
+        "poi-vrc/DressingFramework"
     ],
     "packages":[]
 }
